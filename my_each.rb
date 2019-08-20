@@ -1,7 +1,7 @@
-my_each(array)
-use while to yield 
+# my_each(array)
+# use while to yield 
 
-returns original array
+# returns original array
 
 
 
