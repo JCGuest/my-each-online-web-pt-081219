@@ -5,7 +5,7 @@
 
 def my_each(arry)
   i = 0 
-  while i < arry.length do
+  while i < arry.length do |i|
     yield
   i += 1 
   end
