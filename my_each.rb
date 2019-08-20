@@ -11,4 +11,5 @@ def my_each(arry)
     yield
   i += 1 
   end
+  arry
 end
