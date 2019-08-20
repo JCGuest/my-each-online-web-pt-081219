@@ -7,7 +7,7 @@ returns original array
 
 def my_each(arry)
   i = 0 
-  while i < arry.length 
+  while i < arry.length do
     yield
   i += 1 
   end
