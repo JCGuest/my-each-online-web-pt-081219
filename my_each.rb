@@ -1,9 +1,7 @@
 # my_each(array)
 # use while to yield 
 
-# returns original array
-
-
+# returns original arry
 
 def my_each(arry)
   i = 0 
