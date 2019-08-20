@@ -6,5 +6,8 @@ returns original array
 
 
 def my_each(arry)
-  
+  i = 0 
+  while i < arry.length 
+    yield
+  end
 end
