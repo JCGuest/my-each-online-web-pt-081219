@@ -1,3 +1,10 @@
-def my_each # put argument(s) here
-  # code here
+my_each(array)
+use while to yield 
+
+returns original array
+
+
+
+def my_each(arry)
+  
 end
